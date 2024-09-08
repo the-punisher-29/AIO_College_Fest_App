@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AIO_College_Fest_App</string>
+    <string name="navigation_drawer_open">open\n</string>
+    <string name="navigation_drawer_close">close\n</string>
 </resources>

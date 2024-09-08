@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/events"
+        android:title="Events" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/guest"
+        android:title="Guests" />
+    <item
+        android:id="@+id/nav_about1"
+        android:icon="@drawable/team"
+        android:title="Team" />
+    <item
+        android:id="@+id/nav_about2"
+        android:icon="@drawable/register"
+        android:title="Resgiter" />
+    <item
+        android:id="@+id/nav_about3"
+        android:icon="@drawable/register"
+        android:title="Sign Out" />
+</menu>
