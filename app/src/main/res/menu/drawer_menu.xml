@@ -19,7 +19,7 @@
     <item
         android:id="@+id/nav_about2"
         android:icon="@drawable/register"
-        android:title="Resgiter" />
+        android:title="Register" />
     <item
         android:id="@+id/nav_about3"
         android:icon="@drawable/register"
